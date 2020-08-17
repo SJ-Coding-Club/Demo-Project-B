@@ -14,7 +14,6 @@ def celsius_to_kelvin(temperature_in_celsius):
 def fahrenheit_to_celsius(temperature_in_fahrenheit):
     return 0.0
 
-
 # given temp in C, returns F
 # F = (9 / 5) * C + 32
 def celsius_to_fahrenheit(temperature_in_celsius):
